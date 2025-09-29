@@ -1,4 +1,4 @@
-# SpellingBeeGame
+# Spelling Bee + Riddles Game
 <!DOCTYPE html>
 <html lang="en">
 <head>
